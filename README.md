@@ -15,4 +15,6 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ## *Desain DB*
 ![Screenshot 2023-05-24 201523](https://github.com/labibhusain14/TP3DPBO2023/assets/119772365/0959ee41-3a9e-4c9a-9652-c7983270f920)
 ## *Alur Program*
+* Search & Sorting Ascending
+
 
